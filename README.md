@@ -1,6 +1,6 @@
 # LocalToGlobal
 it helps promote local products to global levels.
-## video link:
+## Video Link:
 https://youtu.be/amJZNjW3WC0
 ## Technology Stack:
 MySQL Server
